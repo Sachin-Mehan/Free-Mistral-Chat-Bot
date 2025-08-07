@@ -1,2 +1,3 @@
-# Free-Mistral-Chat-Bot
-A Simple Mistral Chat-Bot built in Streamlit. 
+# Mistral AI Chatbot with LangChain & Streamlit
+
+
