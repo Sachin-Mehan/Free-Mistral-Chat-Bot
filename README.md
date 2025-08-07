@@ -1,7 +1,3 @@
-Here's a cleaner and more informative `README.md` file for your project, tailored for GitHub collaboration and beginner-friendly learning:
-
----
-
 # Free-Mistral-Chat-Bot
 
 A simple, interactive chat bot built with [Streamlit](https://streamlit.io/) and powered by [Mistral AI](https://docs.mistral.ai/), using LangChain.
