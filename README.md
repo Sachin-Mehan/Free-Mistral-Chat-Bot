@@ -1,7 +1,3 @@
-Here's a cleaner and more informative `README.md` file for your project, tailored for GitHub collaboration and beginner-friendly learning:
-
----
-
 # Free-Mistral-Chat-Bot
 
 A simple, interactive chat bot built with [Streamlit](https://streamlit.io/) and powered by [Mistral AI](https://docs.mistral.ai/), using LangChain.
@@ -39,7 +35,7 @@ pip install -r requirements.txt
 3. **Set up your API Key**
 * Create a folder named .streamlit in the root of the project directory.
 * Inside this folder, create a file named secrets.toml.
-* Add your Mistral API key to the secrets.toml
+* Add your Mistral API key to the secrets.toml ( You can get your free mistral api key from here: https://console.mistral.ai/api-keys)
 
 
 4. **Run the app**
