@@ -2,7 +2,7 @@
 
 A simple, interactive chat bot built with [Streamlit](https://streamlit.io/) and powered by [Mistral AI](https://docs.mistral.ai/), using LangChain.
 
-This project is designed as a learning tool and collaboration space for developers interested in building AI chat apps. I'm new to GitHub and open-source projects, and this is my first step toward learning by doing — and hopefully, with your help, improving!
+This project is designed as a learning tool and collaboration space for developers interested in building AI chat apps. I'm new to GitHub and open-source projects, and this is my first step toward learning by doing, and hopefully, with your help, improving!
 
 ---
 
